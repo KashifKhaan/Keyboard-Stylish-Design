@@ -1,0 +1,50 @@
+body {
+	background-color: rgb(214,214,214);
+}
+
+.container {
+	margin: 160px 0 0 2px;
+}
+
+.row {
+	width: 100%;
+	height: 60px;
+}
+
+button {
+	color: black;
+	width: 55px;
+	height: 55px;
+	border: none;
+	background: rgb(214,214,214);
+	box-shadow: 5px 5px 10px #474343, -5px 5px 10px #ffff;
+	font-size: 20px;
+	margin-left: 5px;
+	outline: none;
+	font-family: arial;
+	border-radius: 20%;
+}
+
+button:active {
+	box-shadow: 1px 1px 2px #fff8f8, -1 -1px 2px #474343;
+}
+
+.back {
+	width: 155px;
+	border-radius: 10px;
+}
+
+.tab {
+	width: 110px;
+	border-radius: 10px;
+}
+
+.caps {
+	width: 110px;
+	border-radius: 10px;
+}
+
+.enter {
+	width: 105px;
+	border-radius: 10px;
+}
